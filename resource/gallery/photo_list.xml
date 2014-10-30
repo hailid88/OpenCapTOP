@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+
+	<config
+		folder="DDOTPics/"
+		show_tooltip="true"
+		auto_play="true"
+		auto_play_button="true"
+		auto_play_duration="5"
+		
+		thumbnail_area_width="710"
+		thumbnail_height="100"
+		thumbnail_spacing="10"
+		thumbnail_border_size="5"
+		thumbnail_border_color="#EEEEEE"
+		thumbnail_highlight_color="#333333"
+
+		previous_button="true"
+		next_button="true"
+		fullscreen_button="false"
+		scale_options_button="false"
+		image_scale_option="0"
+		
+		description="false"
+		description_bg_color="#000000"
+		description_bg_alpha="0.6"
+		css_file="resource/gallery/photo_style.css"
+		tween_duration="0.5"
+		tween_effect="linear">
+	</config>
+	
+	<photo>
+		<thumbnail>s_Washington Monument.jpg</thumbnail>
+		<filename>Washington Monument.jpg</filename>
+		<tooltip>Washington Monument</tooltip>
+		<description>Washington Monument</description>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_Bikeshare.jpg</thumbnail>
+		<filename>Bikeshare.jpg</filename>
+		<tooltip>Bikeshare</tooltip>
+		<description>Bikeshare</description>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_Congress building.jpg</thumbnail>
+		<filename>Congress building.jpg</filename>
+		<tooltip>Congress building</tooltip>
+		<description>Congress building</description>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_Washington DC.jpg</thumbnail>
+		<filename>Washington DC.jpg</filename>
+		<tooltip>Washington DC</tooltip>
+		<description>Washington DC</description>
+	</photo>
+	
+		<photo>
+		<thumbnail>s_White-House.jpg</thumbnail>
+		<filename>White-House.jpg</filename>
+		<tooltip>White-House</tooltip>
+		<description>White-House</description>
+	</photo> 
+	
+		<photo>
+		<thumbnail>s_dcsubway.jpg</thumbnail>
+		<filename>dcsubway.jpg</filename>
+		<tooltip>DC subway</tooltip>
+		<description>DC Subway</description>
+	</photo> 
+	
+		<photo>
+		<thumbnail>s_Thomas Jefferson Memorial.jpg</thumbnail>
+		<filename>Thomas Jefferson Memorial.jpg</filename>
+		<tooltip>Thomas Jefferson Memorial</tooltip>
+		<description>Thomas Jefferson Memorial</description>
+	</photo> 
+</photos>
