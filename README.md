@@ -11,7 +11,10 @@ Usage
 
 ![](https://github.com/hailid88/OpenCapTOP/blob/master/login.png)
 
-Input username and password, it will take you to the main page (Incident Management). click the icons in google map, it will show more detailed information of the incident. 
+
+* Incident management: 
+* * the spatial location of traffic incidents are shown in Google map, while the 
+
 ![](https://github.com/hailid88/OpenCapTOP/blob/master/opencaptop.png)
 
 Following figure shows the page of CCTV. When click on the icon, it will show the realtime CCTV of the specific intersection. 
