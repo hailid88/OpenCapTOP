@@ -6,6 +6,7 @@ Backend is written by C#.
 Frontend is written by ASP.NET, Javascript, css, html.
 
 Screenshots of our website are as follows:
+------
 The login Page:
 ![](https://github.com/hailid88/OpenCapTOP/blob/master/login.png)
 
