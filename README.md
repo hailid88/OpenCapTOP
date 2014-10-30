@@ -7,7 +7,8 @@ Frontend is written by ASP.NET, Javascript, css, html.
 
 Usage
 ------
-* Login using username and password
+* Login using username and password:
+
 ![](https://github.com/hailid88/OpenCapTOP/blob/master/login.png)
 
 Input username and password, it will take you to the main page (Incident Management). click the icons in google map, it will show more detailed information of the incident. 
