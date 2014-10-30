@@ -25,7 +25,7 @@
            cstext2.Append("    plugins: { \n");
            cstext2.Append("        hddn: {  \n");
            cstext2.Append("            url: \"flowplayer.rtmp-3.2.11.swf\",  \n");
-           cstext2.Append("            netConnectionUrl: 'rtmp://10.70.32.38/rtplive' \n");
+           cstext2.Append("            netConnectionUrl: 'rtmp://*****/rtplive' \n");
            cstext2.Append("        }  \n");
            cstext2.Append("    }, \n");
            cstext2.Append("    canvas: { \n");
@@ -42,7 +42,7 @@
            StringBuilder sb0 = new StringBuilder();
            Response.Write("<script>");
            Response.Write("var theDate = new Date();\n");
-           Response.Write("var output=\"<img HEIGHT=320 WIDTH=400 SRC=\\\"http://jtao:tao123@10.40.62.166/axis-cgi/mjpg/video.cgi?camera=2&resolution=704x240&\";\n");
+           Response.Write("var output=\"<img HEIGHT=320 WIDTH=400 SRC=\\\"http://***:***@IPaddress/axis-cgi/mjpg/video.cgi?camera=2&resolution=704x240&\";\n");
            Response.Write("output += theDate.getTime() + \"\\\">\";\n");
            Response.Write("document.write(output);\n");
            Response.Write("</script>\n");
