@@ -17,13 +17,17 @@ Usage
 ![](https://github.com/hailid88/OpenCapTOP/blob/master/opencaptop.png)
 
 
+
 * CCTV monitoring: The camera icons on Google map show the locations where a CCTV is installed. By clicking a icon, users can monitor the real-time video streaming from the CCTV.
 ![](https://github.com/hailid88/OpenCapTOP/blob/master/CCTV.png)
+
 
 
 * Real-time traffic data monitoring: the icons on Google map shows the locations of SNAPS sensors which are used to collect information from the roads. The click on the icon enables users to monitor the real-time streaming data from a specific sensor.
 
 ![](https://github.com/hailid88/OpenCapTOP/blob/master/SNAPS.png)
+
+
 
 * PCS data download:
 
